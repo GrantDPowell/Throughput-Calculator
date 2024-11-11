@@ -80,6 +80,11 @@ Explores the effects of:
 
 Both parts include visual graphs and tables for easy analysis of parameter effects.
 
+![Figure 1](Images/fig1.png)
+![Figure 2](Images/fig2.png)
+![Figure 3](Images/fig3.png)
+![Figure 4](Images/fig4.png)
+
 ## Notes
 
 - The source code includes raw calculation sheets for verification.
