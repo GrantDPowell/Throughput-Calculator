@@ -37,6 +37,7 @@ Install these dependencies with:
 
 ```bash
 pip install matplotlib pandas pandastable
+```
 
 ### 2. Running the Application
 
@@ -44,6 +45,8 @@ To start the GUI application, navigate to the project directory and run:
 
 ```bash
 python pipeline_calculator.py
+```
+
 
 Alternatively, use the provided executable file in the `exe` folder. If the shortcut doesn’t work, run the `.exe` directly from the root folder.
 
